@@ -1,2 +1,2 @@
 # Customer_behavior_analysis
-Data analytics project showcasing customer behavior analysis using python , sqi and power bi.
+This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. 
